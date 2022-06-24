@@ -1,11 +1,23 @@
 function scuberGreetingForFeet(){
-  // Write your code here!
+}
+if (condition) {
+//the ride is more than 400 feet   
+} else {
+  to.equal(pay)
 }
 
 function ternaryCheckCity(){
-  // Write your code here!
+  if (condition) {
+    //reached the destination
+  } else {
+   to.equal(arrived) 
+  }
 }
 
 function switchOnCharmFromTip(){
-  // Write your code here!
+if (condition) {
+  //the passenger tips
+} else {
+  to.equal(thankyou)
+}
 }
